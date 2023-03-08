@@ -3,7 +3,6 @@
   This program will represent the single player Yahtzee game, based on the rules given.
   It will use the Player class, which in turn uses the Dice and Scorecard classes.*/
 
-
   //imports
   import java.util.Scanner;
 
