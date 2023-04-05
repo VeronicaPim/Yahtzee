@@ -1,10 +1,7 @@
 /*Veronica Pimenova
   Period 6
   This will represent the Dice class, with rolling and rerolling dice.*/
-public class Dice{
-	
-	
-	
+public class Dice{	
      //instance variables
      private int[] diceValues;
 
