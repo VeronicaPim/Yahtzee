@@ -6,6 +6,7 @@ public class Dice{
 	
 	
 	
+	
      //instance variables
      private int[] diceValues;
 
