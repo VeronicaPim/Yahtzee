@@ -151,8 +151,7 @@ public class Scorecard{
 		  getYahtzee(choice);
 	  }
       else if(choice==13){
-		  getChance();
-	  }
+		  getChance(); }
    }
 
    //This method will display the scorecard with its current values.
