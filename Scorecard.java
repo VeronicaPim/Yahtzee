@@ -4,9 +4,7 @@
   and dealt with throughout the game, according to the rules.*/
 
   //import
-
   import java.util.Arrays;
-
 
 //use class to print scorecard, update it, and have the needed validations
 public class Scorecard{
