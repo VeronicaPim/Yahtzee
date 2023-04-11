@@ -32,6 +32,7 @@ public class Scorecard{
 			  scorecard[choice-1]=total;
 		  }
 
+	
 		  /*This method will change the scorecard for three or four of kind
 		  @param int choice*/
 		  private void getSevenEight(int choice){
