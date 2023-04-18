@@ -3,8 +3,6 @@
   This will represent the Scorecard class, where the scorecard is updated
   and dealt with throughout the game, according to the rules.*/
 
-
-
   //import
   import java.util.Arrays;
 
