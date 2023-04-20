@@ -28,6 +28,7 @@ public class Player{
        reroll();
 	   updateScoreCard();
    }
+	
 
 	   //This method will reroll the dice based on user input.
 	   private void reroll(){
