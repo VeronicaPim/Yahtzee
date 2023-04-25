@@ -21,6 +21,7 @@ public class Player{
        this.scores = new Scorecard();
    }
 
+	
    //turn method
    public void turn(){
 	   set.rollDice();
