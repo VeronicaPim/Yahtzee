@@ -12,7 +12,6 @@ public class Player{
    //instance variables
    private String name;
    private Dice set;
-	
    private Scorecard scores;
 
    //constructor
