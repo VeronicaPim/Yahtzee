@@ -20,7 +20,6 @@ public class Player{
        this.name=name;
        this.scores = new Scorecard();
    }
-
 	
    //turn method
    public void turn(){
