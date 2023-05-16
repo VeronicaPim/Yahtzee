@@ -8,6 +8,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 public class Player{
    //instance variables
    private String name;
