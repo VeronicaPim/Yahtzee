@@ -7,7 +7,6 @@
   //imports
   import java.util.Scanner;
 
-
   public class Yahtzee{
 	  public static void main(String[] args){
 
