@@ -2,7 +2,8 @@
   Period 6
   This will represent the Dice class, with rolling and rerolling dice.*/
 public class Dice{
-     //instance variables
+	
+     //instance variable
      private int[] diceValues;
 
      //constructor
