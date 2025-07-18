@@ -6,6 +6,7 @@ public class Dice{
      //instance variable
      private int[] diceValues;
 	
+	
      //constructor
      public Dice(int numDice){
        diceValues = new int[numDice];
