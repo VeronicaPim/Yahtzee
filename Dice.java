@@ -2,7 +2,6 @@
   Period 6
   This will represent the Dice class, with rolling and rerolling dice.*/
 public class Dice{
-
 	
      //instance variable
      private int[] diceValues;
@@ -39,4 +38,5 @@ public class Dice{
 		 diceValues[die] = (int)(Math.random()*6+1);
 	 }
 }
+
 
