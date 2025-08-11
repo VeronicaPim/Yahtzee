@@ -7,6 +7,7 @@ public class Dice{
      private int[] diceValues;
 
      //constructor
+
      public Dice(int numDice){
        diceValues = new int[numDice];
      }
