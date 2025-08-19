@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Player{
+
    //instance variables
    private String name;
    private Dice set;
