@@ -9,7 +9,6 @@
 //use class to print scorecard, update it, and have the needed validations
 public class Scorecard{
 
-
    //instance variables
    private boolean[] chosen = new boolean[13];
    private int[] scorecard= new int[13];
