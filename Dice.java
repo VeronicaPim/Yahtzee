@@ -5,7 +5,6 @@ public class Dice{
 	
      //instance variable
      private int[] diceValues;
-
 	
      //constructor
      public Dice(int numDice){
@@ -39,6 +38,7 @@ public class Dice{
 		 diceValues[die] = (int)(Math.random()*6+1);
 	 }
 }
+
 
 
 
