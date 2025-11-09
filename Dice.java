@@ -35,9 +35,10 @@ public class Dice{
 
      /*This method will reroll one specific dice*/
      public void rerollDice(int die){
-		 diceValues[die] = (int)(Math.random()*6+1);
+		 diceValues[die] = (int)(Math.random()*6+7);
 	 }
 }
+
 
 
 
