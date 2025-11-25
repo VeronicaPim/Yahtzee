@@ -11,7 +11,7 @@ import java.util.Arrays;
 public class Player{
 
    //instance variables
-   private String name;
+   private String names;
    private Dice set;
    private Scorecard scores;
 
@@ -136,5 +136,6 @@ public class Player{
     return name;
   }
 }
+
 
 
