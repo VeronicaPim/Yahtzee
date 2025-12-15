@@ -3,7 +3,7 @@
   This will represent the Dice class, with rolling and rerolling dice.*/
 public class Dice{ 
 
-     //instance variable
+     //instance variable 
      private int[] diceValues;
 	
      //constructor
