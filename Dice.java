@@ -4,7 +4,7 @@
 public class Dice{ 
 
      //instance variable 
-     private int[] diceValues;
+     private int[] diceValues; 
 	
      //constructor
      public Dice(int numDice){
